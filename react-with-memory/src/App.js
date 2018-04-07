@@ -4,17 +4,20 @@ import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
 import cards from "./cards.json";
 import './App.css';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 
-
+// main app with constructor
 class App extends React.Component {
-
-  state = {
-    cards,
-    score: 0,
-    highscore: 0
-  };
-
+  constructor(props) {
+    super(props) 
+    this.state = {
+      cards,
+      score: 0,
+      highscore: 0
+    };
+  }
+  
+// method for ending game
   gameOver = () => {
     if (this.state.score > this.state.highscore) {
       this.setState({ highscore: this.state.score }, function() {
@@ -47,7 +50,7 @@ class App extends React.Component {
     });
   }
 
-
+// renders components in DOM
   render() {
     return (
       <Wrapper>
