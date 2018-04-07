@@ -15,20 +15,23 @@ https://react-with-memory.herokuapp.com/
 After creation, your project should look like this:
 
 ```
-my-app/
-  README.md
+react-with-memory/
   node_modules/
-  package.json
   public/
     index.html
     favicon.ico
   src/
     App.css
     App.js
-    App.test.js
+    components/
+      Card/
+      Header/
+      Wrapper/
     index.css
     index.js
     logo.svg
+  package.json
+  README.md
 ```
 
 For the project to build, **these files must exist with exact filenames**:
