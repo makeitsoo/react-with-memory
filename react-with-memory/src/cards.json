@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Darth Vader",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_1_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Han Solo",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_2_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Princess Leia",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_3_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Obi-Wan Kenobi",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_4_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Chewbacca",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_5_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Yoda",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_6_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Emperor Palpatine",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_7_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "R2-D2",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_8_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Luke Skywalker",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_9_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Jabba the Hutt",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarschar_10_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Anakin Skywalker",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarsforce_8_base.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Padme",
+    "image": "http://www.timeoutdubai.com/images/content/68331/starwarsforce_9_base.jpg",
+    "count": 0
+  }
+]
