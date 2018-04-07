@@ -3,10 +3,12 @@
   font-size: 2rem;
   color: #2A77AE;
   margin-bottom: 10px;
+  background-color: black;
 }
 
 .title {
   float: left;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .scores {

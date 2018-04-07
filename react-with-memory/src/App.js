@@ -51,7 +51,7 @@ class App extends React.Component {
   render() {
     return (
       <Wrapper>
-        <Header score={this.state.score} highscore={this.state.highscore}>Test Your Memory</Header>
+        <Header score={this.state.score} highscore={this.state.highscore}>REACT with memory | Don't pick the same card twice!</Header>
         {this.state.cards.map(card => (
           <Card
             clickCount={this.clickCount}
